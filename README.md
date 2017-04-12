@@ -1,6 +1,6 @@
 kitchensink: Assortment of technologies including Arquillian
 ========================
-Author: Pete Muir  
+Author: Pete Muir  rajneesh
 Level: Intermediate  
 Technologies: CDI, JSF, JPA, EJB, JAX-RS, BV  
 Summary: The `kitchensink` quickstart demonstrates a Java EE 7 web-enabled database application using JSF, CDI, EJB, JPA and Bean Validation.  
@@ -27,7 +27,7 @@ All you need to build this project is Java 8.0 (Java SDK 1.8) or later and Maven
 
  
 Use of EAP7_HOME
----------------
+ ---------------
 
 In the following instructions, replace `EAP7_HOME` with the actual path to your JBoss EAP installation. The installation path is described in detail here: [Use of EAP7_HOME and JBOSS_HOME Variables](https://github.com/jboss-developer/jboss-developer-shared-resources/blob/master/guides/USE_OF_EAP7_HOME.md#use-of-eap_home-and-jboss_home-variables).
 
