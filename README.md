@@ -4,7 +4,7 @@ Author: Pete Muir  rajneesh
 Level: Intermediate  
 Technologies: CDI, JSF, JPA, EJB, JAX-RS, BV  
 Summary: The `kitchensink` quickstart demonstrates a Java EE 7 web-enabled database application using JSF, CDI, EJB, JPA and Bean Validation.  
-Target Product: JBoss EAP  
+Target Product: JBoss EAP  Free for rajneesh
 Source: <https://github.com/jboss-developer/jboss-eap-quickstarts/>  
 
 What is it?
