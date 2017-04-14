@@ -15,6 +15,7 @@
     See the License for the specific language governing permissions and
     limitations under the License.Testing rajneesh for CI Test 11-04-2017 test master 72
  -->
+<<<<<<< HEAD
 <!-- Testing -->
 <!-- part2 -->
 <!-- part3 -->
@@ -25,6 +26,8 @@
 <!-- part8 -->
 <!-- part9 -->
 <!-- part10 -->
+=======
+>>>>>>> 72281ff895b42d28891e90cf39c752dd995b59f1
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jboss.quickstarts.eap</groupId>
