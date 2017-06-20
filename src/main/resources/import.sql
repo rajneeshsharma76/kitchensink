@@ -16,4 +16,4 @@
 --
 
 -- You can use this file to load seed data into the database using SQL statements
-insert into Member (id, name, email, phone_number) values (0, 'rajnesh sharma', 'Rajneesh.sharma@gspann.com', '9811730955') 
+insert into Member (id, name, email, phone_number) values (0, 'rajnesh sharma mandi', 'Rajneesh.sharma@gspann.com', '9811730955') 
